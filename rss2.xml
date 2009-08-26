@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+<channel>
+
+<title>Dub H Updates</title>
+<description>General updates to either the calendar or the website</description>
+<link>http://www.stuorg.iastate.edu/dubh/new/</link>
+<ttl>120</ttl>
+
+<item>
+<title>Update Bar Added</title>
+<description>Added a "Updates" bar to the website</description>
+<link>http://www.stuorg.iastate.edu/dubh/new/tips.html</link>
+</item>
+
+<item>
+<title>Calendar made into Agenda</title>
+<description>The calendar is now in "Agenda" form so that it can easily be read.</description>
+<link>http://www.stuorg.iastate.edu/dubh/new/tips.html</link>
+</item>
+
+<item>
+<title>Click me to visit the About page</title>
+<description>Link to demonstrate the ability to link places</description>
+<link>http://www.stuorg.iastate.edu/dubh/new/about.html</link>
+</item>
+
+</channel>
+</rss>

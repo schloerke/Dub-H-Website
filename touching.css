@@ -1,0 +1,239 @@
+/* 
+  dark red rgb(86,16,13)
+  regular red rgb(149,23,17)
+  Super Dark Red rgb(89,15,11)
+  
+  Dark gold rgb(229,187,63)
+  Bright Gold rgb(245,224,144)
+
+*/
+
+/* css released under Creative Commons License -  http://creativecommons.org/licenses/by/2.0/deed.en  */
+body {
+	min-width: 1100px;
+	background: #000;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	font-size: 14px;
+	font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
+	color:#000;
+	padding:0px;
+	margin:0px;
+}
+a {
+	color: #DB7093;
+}
+a:visited {
+	color:#c43300;
+}
+a:hover {
+	color: #c43300;
+}
+a:active {
+	color:#000000;
+}
+
+h1 {
+	font-size: 11px;
+	text-transform:uppercase;
+	margin:0px;
+}
+
+h2 {
+	color: rgb(149,23,17);
+	font-size:20px;
+	font-weight: normal;
+	padding: 5px 10px;
+	margin:0px;}
+	
+h3	{
+	color: rgb(149,23,17);
+	font-size:18px;
+	font-weight: normal;
+	padding: 5px 10px;
+	margin:0px;
+}
+
+img.download {
+	vertical-align:middle;
+}
+
+#dancer {
+	z-index: -1; 
+	background-image: url(images/breakd_left.png);
+	background-repeat: no-repeat;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 300px;
+	height: 225px;
+}
+
+/* ----------container to center the layout-------------- */
+#container {
+	width: 760px;
+	margin-left: 170px;
+	margin-right: auto;
+	height:100%;
+	background: rgb(149,23,17); 
+/* 	border: 15px solid pink; */
+ 	border: 10px solid rgb(149,23,17); 
+}
+
+
+
+/* ----------banner for logo-------------- */
+#banner {
+	height:118px;
+	text-align: center;
+/*	background:  url(images/dub_header.png) no-repeat bottom center; */
+	background:  url(images/dubh.png) repeat-x bottom center; 
+	background-color: rgb(229,187,63); 
+	padding: 0px;
+	margin: 0px;
+	border: 2px solid rgb(229,187,63);
+}
+#banner img {
+	padding: 0px 0px;
+} 
+
+#bannertitle{
+	padding-top:50px;
+	font-size:2em;
+	font-weight:bold;
+}
+
+/* -----------------content--------------------- */
+#content {
+	background: #fff;
+	padding: 6px;
+	margin-left: 219px;
+	border: 2px solid rgb(229,187,63);
+}
+
+#content ul {
+	list-style: none;
+}
+
+#content a:link, a:hover, a:visited{
+	color: rgb(149,23,17);
+}
+
+div#content { 
+	min-height:600px;
+}
+
+div#content p a:link {
+	display: inline;
+}
+
+p, pre{
+	padding: 10px 10px;
+	margin:0px;
+}
+
+/* --- Controls Vimeo Spacing ---*/
+#content object {
+	margin-left: 40px;
+	padding: 3px;
+}
+
+/* --------------left navi------------- */
+#left {
+	float: left;
+	width: 205px;
+	margin: 0px;
+/*	border: 5px solid red; */
+	border: 2px solid rgb(229,187,63); 
+
+	padding: 6px;
+	background:rgb(149,23,17); 
+	min-height: 600px;
+	height: 100%;
+}
+
+/*--------------News----------------------------*/
+#news {
+	color: #000;
+	padding-top:10px; 
+
+}
+
+/* -----------footer--------------------------- */
+#footer {
+/*	background-color: rgb(149,23,17); */
+/*	clear: both; */
+	margin-top: -2px;
+	text-align: center;
+/*	border: 2px solid rgb(229,187,63); */
+}	
+
+#footer h3 a{
+ 
+	color:#fff;
+	text-decoration: none;
+}
+
+#footer h3 {
+	color: #fff;
+ 	padding: 5px 5px 0px 0px;
+}
+ /**********vertical menu***************/
+
+.verticalmenu ul{
+	list-style: none;
+ 	text-decoration:none;
+	padding: 5px 0 5px 20px;
+	margin: 0px;
+}
+
+/* .verticalmenu{ 	border 1px solid #000;} */
+
+
+ .verticalmenu ul li, a:link, .verticalmenu ul li a:visited, .verticalmenu ul li a:hover {
+  	display: block;
+  	font: Arial, Helvetica, sans-serif;
+  	color: rgb(229,187,63);
+    text-decoration: none;
+}
+
+.verticalmenu ul li a:hover { text-decoration: none; font-size: 1.5em; }
+
+/* .verticalmenu ul li, */
+.verticalmenu ul li  a.active:link, .verticalmenu ul li a.active:visited, .verticalmenu ul li a.active:hover{
+	text-decoration: none;
+	color: rgb(245,224,144);
+	font-size: 1.5em;
+}
+
+/*******Casting List*******/
+ 
+ 
+ #casting ul{
+ 	list-style:none;
+	padding: 5px;
+	margin: -7px 0 5px 20px;
+ 	}
+
+ 	
+ #casting p {
+ 	padding: 4px;
+ 	margin-left: 10px;
+ 	}
+ 	
+ #casting a:link, a:hover, a:visited, a:active {
+	text-decoration: none;
+	font: inherit; 
+	}
+ 	
+ #castinglist ul{
+ 	list-style:none;
+	padding: 5px;
+	margin: -7px 0 5px 20px;
+ 	}
+ 
+ #castinglist p {
+ 	padding: 4px 0 0px 0;
+ 	margin-left: 10px;
+ 	margin-bottom: 10px;
+ 	}
