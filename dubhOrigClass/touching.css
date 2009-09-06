@@ -1,13 +1,4 @@
-/* 
-  dark red rgb(86,16,13)
-  regular red rgb(149,23,17)
-  Super Dark Red rgb(89,15,11)
-  
-  Dark gold rgb(229,187,63)
-  Bright Gold rgb(245,224,144)
-
-*/
-
+/* *** css by miss monorom www.intensivstation.ch *** */
 /* css released under Creative Commons License -  http://creativecommons.org/licenses/by/2.0/deed.en  */
 body {
 	min-width: 1100px;
@@ -40,14 +31,14 @@ h1 {
 }
 
 h2 {
-	color: rgb(149,23,17);
+	color: #9A1212;
 	font-size:20px;
 	font-weight: normal;
 	padding: 5px 10px;
 	margin:0px;}
 	
 h3	{
-	color: rgb(149,23,17);
+	color: #9A1212;
 	font-size:18px;
 	font-weight: normal;
 	padding: 5px 10px;
@@ -75,26 +66,22 @@ img.download {
 	margin-left: 170px;
 	margin-right: auto;
 	height:100%;
-	background: rgb(149,23,17); 
-/* 	border: 15px solid pink; */
- 	border: 10px solid rgb(149,23,17); 
+	background: #9A1212;
+	border: 1px solid #000;
 }
-
 
 
 /* ----------banner for logo-------------- */
 #banner {
-	height:118px;
+	height:114px;
 	text-align: center;
-/*	background:  url(images/dub_header.png) no-repeat bottom center; */
-	background:  url(images/dubh.png) repeat-x bottom center; 
-	background-color: rgb(229,187,63); 
+	background:  url(images/dub_header.png) no-repeat bottom center;
+	background-color: #e1ddd9;
 	padding: 0px;
 	margin: 0px;
-	border: 2px solid rgb(229,187,63);
 }
 #banner img {
-	padding: 0px 0px;
+	padding:10px 0px;
 } 
 
 #bannertitle{
@@ -106,9 +93,8 @@ img.download {
 /* -----------------content--------------------- */
 #content {
 	background: #fff;
-	padding: 6px;
-	margin-left: 219px;
-	border: 2px solid rgb(229,187,63);
+	padding: 10px;
+	margin-left: 220px;
 }
 
 #content ul {
@@ -116,7 +102,7 @@ img.download {
 }
 
 #content a:link, a:hover, a:visited{
-	color: rgb(149,23,17);
+	color: #9A1212;
 }
 
 div#content { 
@@ -134,7 +120,7 @@ p, pre{
 
 /* --- Controls Vimeo Spacing ---*/
 #content object {
-	margin-left: 20px;
+	margin-left: 40px;
 	padding: 3px;
 }
 
@@ -143,32 +129,22 @@ p, pre{
 	float: left;
 	width: 205px;
 	margin: 0px;
-/*	border: 5px solid red; */
-	border: 2px solid rgb(229,187,63); 
-
 	padding: 6px;
-	background:rgb(149,23,17); 
-	min-height: 600px;
-	height: 100%;
+	background:#9A1212;
+	height:90%;
 }
 
 /*--------------News----------------------------*/
-#news {
+#news h3{
 	color: #000;
-	padding-top:10px; 
-
 }
 
 /* -----------footer--------------------------- */
 #footer {
-/*	background-color: rgb(149,23,17); */
-/*	clear: both; */
-	margin-top: -2px;
+	background-color: #000;
+	clear: both;
+	margin: 0px;
 	text-align: center;
-/*	border: 2px solid rgb(229,187,63); */
-	width: 760px;
-	margin-left: 170px;
-
 }	
 
 #footer h3 a{
@@ -190,23 +166,16 @@ p, pre{
 	margin: 0px;
 }
 
-/* .verticalmenu{ 	border 1px solid #000;} */
-
-
- .verticalmenu ul li, a:link, .verticalmenu ul li a:visited, .verticalmenu ul li a:hover {
-  	display: block;
-  	font: Arial, Helvetica, sans-serif;
-  	color: rgb(229,187,63);
-    text-decoration: none;
+.verticalmenu li, .active a:link, #nav .active a:visited, #nav .active a:hover{
+	text-decoration: none;
+	color: #F8F400;
 }
 
-.verticalmenu ul li a:hover { text-decoration: none; font-size: 1.5em; }
-
-/* .verticalmenu ul li, */
-.verticalmenu ul li  a.active:link, .verticalmenu ul li a.active:visited, .verticalmenu ul li a.active:hover{
-	text-decoration: none;
-	color: rgb(245,224,144);
-	font-size: 1.5em;
+ .verticalmenu li, a:link, .verticalmenu a:visited, .verticalmenu a:hover {
+  	display: block;
+  	font: Arial, Helvetica, sans-serif;
+  	color: #fff;
+    text-decoration: none;
 }
 
 /*******Casting List*******/
