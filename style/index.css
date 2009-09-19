@@ -9,7 +9,8 @@ body {
 }
 
 body#brick {
-	background: #850000 url(images/bgbrick.gif) repeat;
+/*	background: #850000 url(images/bgbrick.gif) repeat; */
+    background: black;
 	}
 
 #map {

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+<channel>
+
+<title>Dub H Updates Bar</title>
+<description>General updates to either the calendar or the website</description>
+<ttl>120</ttl>
+
+<item>
+<title>Dub H Commercial</title>
+<description>Added a the Dub H Commercial video to the website</description>
+<link>http://www.stuorg.iastate.edu/dubh/videos.html</link>
+</item>
+
+
+</channel>
+</rss>

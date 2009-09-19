@@ -1,7 +1,7 @@
 function LoadDynamicFeedControl() {
   var feeds = [
     {title: 'Updates',
-      url: 'http://www.stuorg.iastate.edu/dubh/new/rss2.xml'
+      url: 'http://www.stuorg.iastate.edu/dubh/xml/rss2.xml'
     }];
   var options = {
     stacked : false,

@@ -60,7 +60,7 @@ img.download {
 
 #dancer {
 	z-index: -1; 
-	background-image: url(images/breakd_left.png);
+	background-image: url(../images/breakd_left.png);
 	background-repeat: no-repeat;
 	position: fixed;
 	bottom: 0;
@@ -86,8 +86,8 @@ img.download {
 #banner {
 	height:118px;
 	text-align: center;
-/*	background:  url(images/dub_header.png) no-repeat bottom center; */
-	background:  url(images/dubh.png) repeat-x bottom center; 
+/*	background:  url(../images/dub_header.png) no-repeat bottom center; */
+	background:  url(../images/dubh.png) repeat-x bottom center; 
 	background-color: rgb(229,187,63); 
 	padding: 0px;
 	margin: 0px;
