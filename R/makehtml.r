@@ -1,7 +1,24 @@
 options(stringsAsFactors = FALSE)
+firstToUpper <- function(string)
+{
+  
+  names <- strsplit(string, " ")[[1]]
+  for(i in 1:length(names))
+  {
+    letters <- strsplit(names[i], "")[[1]]
+    letters[1] <- toupper(letters[1])
+    names[i] <- paste(letters, sep = "", collapse = "")
+  }
+  
+  string <- paste(names, sep = "", collapse = " ")
+  string
+  
+}
 
 
-roster <- read.csv("Dub H Roster.txt", header = FALSE)
+
+
+roster <- read.csv("Dub-H-Roster.txt", header = FALSE)
 names(roster) <- c("LastName", "FirstName", "Email")
 
 cast <- read.csv("casting.csv")
@@ -44,8 +61,7 @@ for(i in 1:length(casting))
   casting[[i]] <- casting[[i]][order(casting[[i]])]
 }
 
-choreoInfo <- read.csv("nameAndLocation.txt")
-
+choreoInfo <- read.csv("choreoInfo.txt")
 
 cat("<div id=\"casting\">", "\n", sep = "", file = "htmloutput.html", append = FALSE)
 				
@@ -54,7 +70,7 @@ for(i in 1:nrow(choreoInfo))
   
   choreoInfo$tag[i] <- tolower(paste(strsplit(choreoInfo[i,"Name"]," ")[[1]], sep="", collapse=""))
   
-cat("<p><b>",choreoInfo[i,"Name"],"</b>", "\n", sep = "", file = "htmloutput.html", append = TRUE)
+cat("<p><b>",choreoInfo[i,"Name"],"</b> <a href=\"mailto:",choreoInfo[i,"Email"],"?subject= Dub H - \">",choreoInfo[i,"Email"],"</a>", "\n", sep = "", file = "htmloutput.html", append = TRUE)
 cat("  <ul>", "\n", sep = "", file = "htmloutput.html", append = TRUE)
 cat("    <li><a href=\"#", choreoInfo[i, "tag"], "\">", choreoInfo[i, "Time"], " <em>", choreoInfo[i,"Location"], "</em></a></li>", "\n", sep = "", file = "htmloutput.html", append = TRUE)
 cat("  </ul>", "\n", sep = "", file = "htmloutput.html", append = TRUE)
@@ -79,18 +95,12 @@ for(i in 1:nrow(choreoInfo))
   cat("  <ul id=\"fancy-text\">", "\n", sep = "", file = "htmloutput.html", append = TRUE)  
   for(j in 1:length(dancers))
   {
-    cat("    <li>", dancers[j],"</li>", "\n", sep = "", file = "htmloutput.html", append = TRUE)
+    cat("    <li>", firstToUpper(dancers[j]),"</li>", "\n", sep = "", file = "htmloutput.html", append = TRUE)
   }
   cat("  </ul>", "\n", sep = "", file = "htmloutput.html", append = TRUE)  
 
 }
+
 cat("</div>", "\n", sep = "", file = "htmloutput.html", append = TRUE)  
 
 
-
-
-
-
-
-
-		

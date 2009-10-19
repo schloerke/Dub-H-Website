@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Videos</title>
+    <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos</link>
+    <description>Below is some links to videos that have been recorded at events during the year.  
+The user name in YouTube is &#x2018;DubHISU&#x2019;.  Look them up to find the videos there.
+YouTube now has HD!!! We will now only be uploading through YouTube now.</description>
+    <item>
+      <title>Progress Show</title>
+      <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2009/4/27_Progress_Show.html</link>
+      <guid isPermaLink="false">6d3fa801-e01c-4153-801e-0bf9257bf509</guid>
+      <pubDate>Mon, 27 Apr 2009 10:51:07 -0500</pubDate>
+      <iweb:image href="Media/object001.jpg"></iweb:image>
+      <iweb:comment link="file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2009/4/27_Progress_Show.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Lipsync</title>
+      <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2009/4/3_Lipsync.html</link>
+      <guid isPermaLink="false">93a50624-642f-4db9-99d1-6623da606b13</guid>
+      <pubDate>Fri, 3 Apr 2009 20:00:50 -0500</pubDate>
+      <description>Dub H performed as special guests for the Greek Lipsync Finals.  Great Job!!&lt;br/&gt;</description>
+      <iweb:image href="Media/object001_1.jpg"></iweb:image>
+      <iweb:comment link="file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2009/4/3_Lipsync.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Timberwolves</title>
+      <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2009/1/30_Timberwolves.html</link>
+      <guid isPermaLink="false">6761a858-30c8-4047-a571-8ef512538456</guid>
+      <pubDate>Fri, 30 Jan 2009 20:00:50 -0600</pubDate>
+      <description>Dub H went up to Minnesota again!!! Enjoy...</description>
+      <iweb:image href="Media/object000.png"></iweb:image>
+      <iweb:comment link="file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2009/1/30_Timberwolves.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Progress Show</title>
+      <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2008/10/29_Progress_Show.html</link>
+      <guid isPermaLink="false">d6d16db4-1864-4b6f-acbd-2c6dd5277cda</guid>
+      <pubDate>Wed, 29 Oct 2008 20:00:51 -0500</pubDate>
+      <description>Dub H showing parts of their dances in the Forker Building</description>
+      <iweb:comment link="file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2008/10/29_Progress_Show.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Workshops</title>
+      <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2008/9/9_Workshops.html</link>
+      <guid isPermaLink="false">c1acea1b-0317-44d8-b4fa-16b24a3d43d7</guid>
+      <pubDate>Tue, 9 Sep 2008 19:00:36 -0500</pubDate>
+      <iweb:comment link="file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2008/9/9_Workshops.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

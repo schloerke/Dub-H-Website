@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Photos</title>
+    <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Photos/Photos.html</link>
+    <description>Photos</description>
+    <item>
+      <title>Timberwolves ISU</title>
+      <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Photos/Pages/Timberwolves_ISU.html</link>
+      <guid isPermaLink="false">bc07328c-4bf1-425f-bd22-9393d0031e76</guid>
+    </item>
+    <item>
+      <title>Fall 2007 Show</title>
+      <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Photos/Pages/Fall_2007_Show.html</link>
+      <guid isPermaLink="false">63a36c8f-79e0-4c60-92d5-f67be05c26d2</guid>
+    </item>
+    <item>
+      <title>Oldies but Goodie</title>
+      <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Photos/Pages/Oldies_but_Goodie.html</link>
+      <guid isPermaLink="false">a347da5a-6133-4540-a389-ae238d1ee28c</guid>
+    </item>
+  </channel>
+</rss>

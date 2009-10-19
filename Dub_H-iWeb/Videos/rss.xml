@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Videos   </title>
+    <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Videos.html</link>
+    <description>Below is some links to videos that have been recorded at events during the year.  &lt;br/&gt;The user name in YouTube is ‘DubHISU’.  Look them up to find the videos there.&lt;br/&gt;YouTube now has HD!!! We will now only be uploading through YouTube now.</description>
+    <generator>iWeb 3.0.1</generator>
+    <image>
+      <url>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Videos_files/droppedImage.jpg</url>
+      <title>Videos   </title>
+      <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Videos.html</link>
+    </image>
+    <item>
+      <title>Progress Show</title>
+      <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2009/4/27_Progress_Show.html</link>
+      <guid isPermaLink="false">6d3fa801-e01c-4153-801e-0bf9257bf509</guid>
+      <pubDate>Mon, 27 Apr 2009 10:51:07 -0500</pubDate>
+      <description>&lt;a href=&quot;file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2009/4/27_Progress_Show_files/ISU%20Hip%20Hop%20Club%20-%20Dub%20H.jpg&quot;&gt;&lt;img src=&quot;file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Media/object001_2.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:182px; height:95px;&quot;/&gt;&lt;/a&gt; </description>
+      <enclosure url="file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2009/4/27_Progress_Show_files/ISU%20Hip%20Hop%20Club%20-%20Dub%20H.jpg" length="17937" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Lipsync</title>
+      <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2009/4/3_Lipsync.html</link>
+      <guid isPermaLink="false">93a50624-642f-4db9-99d1-6623da606b13</guid>
+      <pubDate>Fri, 3 Apr 2009 20:00:50 -0500</pubDate>
+      <description>&lt;a href=&quot;file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2009/4/3_Lipsync_files/ISU%20Hip%20Hop%20Club%20-%20Dub%20H.jpg&quot;&gt;&lt;img src=&quot;file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Media/object001_3.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:182px; height:95px;&quot;/&gt;&lt;/a&gt;Dub H performed as special guests for the Greek Lipsync Finals.  Great Job!!&lt;br/&gt;</description>
+      <enclosure url="file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2009/4/3_Lipsync_files/ISU%20Hip%20Hop%20Club%20-%20Dub%20H.jpg" length="17937" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Timberwolves</title>
+      <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2009/1/30_Timberwolves.html</link>
+      <guid isPermaLink="false">6761a858-30c8-4047-a571-8ef512538456</guid>
+      <pubDate>Fri, 30 Jan 2009 20:00:50 -0600</pubDate>
+      <description>&lt;a href=&quot;file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2009/1/30_Timberwolves_files/Minnesota_Timberwolves_logo.png&quot;&gt;&lt;img src=&quot;file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Media/object000_1.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:126px; height:97px;&quot;/&gt;&lt;/a&gt;Dub H went up to Minnesota again!!! Enjoy...</description>
+      <enclosure url="file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2009/1/30_Timberwolves_files/Minnesota_Timberwolves_logo.png" length="54759" type="image/png"/>
+    </item>
+    <item>
+      <title>Progress Show</title>
+      <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2008/10/29_Progress_Show.html</link>
+      <guid isPermaLink="false">d6d16db4-1864-4b6f-acbd-2c6dd5277cda</guid>
+      <pubDate>Wed, 29 Oct 2008 20:00:51 -0500</pubDate>
+      <description>Dub H showing parts of their dances in the Forker Building</description>
+    </item>
+    <item>
+      <title>Workshops</title>
+      <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/Videos/Entries/2008/9/9_Workshops.html</link>
+      <guid isPermaLink="false">c1acea1b-0317-44d8-b4fa-16b24a3d43d7</guid>
+      <pubDate>Tue, 9 Sep 2008 19:00:36 -0500</pubDate>
+      <description> </description>
+    </item>
+  </channel>
+</rss>

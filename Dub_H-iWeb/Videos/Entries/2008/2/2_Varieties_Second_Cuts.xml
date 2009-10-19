@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E3DD1E57-7BE4-40DD-AE0B-6B9ACF5D8923">
+  <lastEdited clientType="local-build-20090427" date="2009-04-27 10:57:56 -0500"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Varieties Second Cuts&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Varieties Second Cuts</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>A mix of JP, Jung, and Freakum were performed at the Great Hall in the Memorial Union.  </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, February 2, 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="2_Varieties_Second_Cuts_files/shapeimage_2.png" left="0px" top="0px" width="327px" height="329px"/>
+</content>

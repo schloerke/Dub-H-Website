@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E3DD1E57-7BE4-40DD-AE0B-6B9ACF5D8923">
+  <lastEdited clientType="local-build-20090427" date="2009-04-27 10:57:52 -0500"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Workshop #2&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Workshop #2</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The second workshop of the week featured the primer performance of Janae Hohbein followed by the ever popular Kenan Peters.  &#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, January 24, 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="24_Workshop_2_files/shapeimage_2.png" left="0px" top="0px" width="188px" height="300px"/>
+</content>

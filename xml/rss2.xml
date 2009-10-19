@@ -2,8 +2,9 @@
 <rss version="2.0">
 <channel>
 
-<title>Dub H Updates Bar</title>
+<title>Dub H Updates</title>
 <description>General updates to either the calendar or the website</description>
+<link>http://www.stuorg.iastate.edu/dubh/new/</link>
 <ttl>120</ttl>
 
 <item>
@@ -12,6 +13,17 @@
 <link>http://www.stuorg.iastate.edu/dubh/videos.html</link>
 </item>
 
+<item>
+<title>Cabinet Contact Info / Office Hours</title>
+<description>Added a the cabinet office location and office hours.</description>
+<link>http://www.stuorg.iastate.edu/dubh/contact.html</link>
+</item>
+
+<item>
+<title>Workshop Videos</title>
+<description>Workshops from Fall 2009.  Dee Scott, Pat Smith, Rob Tebben, Nikita Miles, Brandon Foster, Steven Flagg</description>
+<link>http://www.stuorg.iastate.edu/dubh/videos.html</link>
+</item>
 
 </channel>
 </rss>

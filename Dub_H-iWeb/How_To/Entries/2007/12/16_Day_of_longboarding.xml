@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F13824AC-AC38-4F19-957C-9F7D76EDF270">
+  <lastEdited clientType="local-build-20090130" date="2009-01-30 11:16:17 -0600"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Heal Toe&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Heal Toe</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="16_Day_of_longboarding_files/shapeimage_2.jpg" left="0px" top="0px" width="400px" height="300px"/>
+</content>

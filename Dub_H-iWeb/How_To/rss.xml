@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>How To</title>
+    <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/How_To/How_To.html</link>
+    <description>Click on the Tabs below to learn ‘How To’ do a move!</description>
+    <generator>iWeb 3.0.1</generator>
+    <image>
+      <url>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/How_To/How_To_files/droppedImage.jpg</url>
+      <title>How To</title>
+      <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/How_To/How_To.html</link>
+    </image>
+    <item>
+      <title>Cupid Shuffle and Soulja Boy Dance</title>
+      <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/How_To/Entries/2008/3/7_Cupid_Shuffle_and_Soulja_Boy_Dance.html</link>
+      <guid isPermaLink="false">73eb1f44-af64-4bec-818d-367c4633a629</guid>
+      <pubDate>Fri, 7 Mar 2008 15:00:00 -0600</pubDate>
+      <description>&lt;a href=&quot;file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/How_To/Entries/2008/3/7_Cupid_Shuffle_and_Soulja_Boy_Dance_files/droppedImage.jpg&quot;&gt;&lt;img src=&quot;file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/How_To/Media/object045.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:208px; height:104px;&quot;/&gt;&lt;/a&gt;Watch to the movie below to add a few moves to your bag.  Dub H, lead by Sarah Bender, taught the Cupid Shuffle and the Soulja Boy dance to the participants of the Healthy Heart Connection.</description>
+      <enclosure url="file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/How_To/Entries/2008/3/7_Cupid_Shuffle_and_Soulja_Boy_Dance_files/droppedImage.jpg" length="122614" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Heal Toe</title>
+      <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/How_To/Entries/2007/12/16_Heal_Toe.html</link>
+      <guid isPermaLink="false">e8bf92c1-414d-48c5-bebb-e8d3d0365e55</guid>
+      <pubDate>Sun, 16 Dec 2007 09:55:08 -0600</pubDate>
+      <description>&lt;a href=&quot;file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/How_To/Entries/2007/12/16_Heal_Toe_files/IMG_3528_1.jpg&quot;&gt;&lt;img src=&quot;file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/How_To/Media/object046.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:207px; height:155px;&quot;/&gt;&lt;/a&gt; </description>
+      <enclosure url="file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/How_To/Entries/2007/12/16_Heal_Toe_files/IMG_3528_1.jpg" length="163765" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

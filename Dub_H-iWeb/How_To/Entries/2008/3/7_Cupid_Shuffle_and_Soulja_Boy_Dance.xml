@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F13824AC-AC38-4F19-957C-9F7D76EDF270">
+  <lastEdited clientType="local-build-20090427" date="2009-04-27 10:58:03 -0500"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Cupid Shuffle and Crank Dat&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Cupid Shuffle and Soulja Boy Dance</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Watch to the movie below to add a few moves to your bag.  Dub H, lead by Sarah Bender, taught the Cupid Shuffle and the Soulja Boy dance to the participants of the Healthy Heart Connection.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, March 7, 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="7_Cupid_Shuffle_and_Soulja_Boy_Dance_files/shapeimage_2.png" left="0px" top="0px" width="599px" height="300px"/>
+</content>

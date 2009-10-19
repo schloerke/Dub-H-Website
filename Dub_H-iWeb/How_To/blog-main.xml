@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>How To</title>
+    <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/How_To</link>
+    <description>Click on the Tabs below to learn &#x2018;How To&#x2019; do a move!</description>
+    <item>
+      <title>Cupid Shuffle and Soulja Boy Dance</title>
+      <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/How_To/Entries/2008/3/7_Cupid_Shuffle_and_Soulja_Boy_Dance.html</link>
+      <guid isPermaLink="false">73eb1f44-af64-4bec-818d-367c4633a629</guid>
+      <pubDate>Fri, 7 Mar 2008 15:00:00 -0600</pubDate>
+      <description>Watch to the movie below to add a few moves to your bag.  Dub H, lead by Sarah Bender, taught the Cupid Shuffle and the Soulja Boy dance to the participants of the Healthy Heart Connection.</description>
+      <iweb:image href="Media/droppedImage.jpg"></iweb:image>
+      <iweb:comment link="file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/How_To/Entries/2008/3/7_Cupid_Shuffle_and_Soulja_Boy_Dance.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Heal Toe</title>
+      <link>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/How_To/Entries/2007/12/16_Heal_Toe.html</link>
+      <guid isPermaLink="false">e8bf92c1-414d-48c5-bebb-e8d3d0365e55</guid>
+      <pubDate>Sun, 16 Dec 2007 09:55:08 -0600</pubDate>
+      <iweb:image href="Media/t_IMG_3528.jpg"></iweb:image>
+      <iweb:comment link="file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/How_To/Entries/2007/12/16_Heal_Toe.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/dubh/Sites/Dub%20H%20Website/Dub_H/How_To</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
