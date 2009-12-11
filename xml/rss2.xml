@@ -4,25 +4,19 @@
 
 <title>Dub H Updates</title>
 <description>General updates to either the calendar or the website</description>
-<link>http://www.stuorg.iastate.edu/dubh/new/</link>
+<link>http://www.stuorg.iastate.edu/dubh/</link>
 <ttl>120</ttl>
 
 <item>
-<title>Dub H Commercial</title>
-<description>Added a the Dub H Commercial video to the website</description>
-<link>http://www.stuorg.iastate.edu/dubh/videos.html</link>
+<title>Newsletter</title>
+<description>Dub H is starting a monthly newsletter.  Check out the latest newsletter: October!</description>
+<link>http://www.stuorg.iastate.edu/dubh/about.html</link>
 </item>
 
 <item>
-<title>Cabinet Contact Info / Office Hours</title>
-<description>Added a the cabinet office location and office hours.</description>
-<link>http://www.stuorg.iastate.edu/dubh/contact.html</link>
-</item>
-
-<item>
-<title>Workshop Videos</title>
-<description>Workshops from Fall 2009.  Dee Scott, Pat Smith, Rob Tebben, Nikita Miles, Brandon Foster, Steven Flagg</description>
-<link>http://www.stuorg.iastate.edu/dubh/videos.html</link>
+<title>New Email List!</title>
+<description>Added a website explaining our new email list serve.</description>
+<link>http://www.stuorg.iastate.edu/dubh/email.html</link>
 </item>
 
 </channel>

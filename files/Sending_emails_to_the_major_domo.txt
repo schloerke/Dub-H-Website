@@ -1,0 +1,34 @@
+Hey Cabinet!
+
+So we have an email list that people can add and remove themselves without us doing it manually.  
+
+Please check out the website on our site that explains it and how it works.
+
+How to send emails!
+  To send an email to the email list, the body of the email must contain the following two lines:
+"APPROVED:hdub
+"
+with the second line being blank.
+
+So a "test" email would look like this...
+
+To: dubh@iastate.edu
+Subject: Test
+Body:
+APPROVED:hdub
+
+Test email!
+Barret
+
+The people on the email list would receive an email looking like...
+To: dubh@iastate.edu
+Subject: Test
+Body:
+Test email!
+Barret
+
+
+Enjoy!!!
+
+Best,
+Barret Schloerke
